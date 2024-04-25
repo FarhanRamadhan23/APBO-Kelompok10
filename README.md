@@ -1,4 +1,4 @@
-![MasterHead](https://discordapp.com/channels/@me/1022485596192636980/1232938943197089824)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gbu-presnenskij.ru%2F%3Fq%3Dgif-animation-%25C2%25B7-github-topics-%25C2%25B7-github-dd-PQXGEkcb&psig=AOvVaw0nFEyAzqCXgpEQaWPTj0Lu&ust=1714112279071000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDe8_3b3IUDFQAAAAAdAAAAABAb)
 <br>
 <h1 align="center">Aplikasi UMKM Konveksi - Kelompok 10</h1>
 <h3 align="center">Beranggotakan:</h3>
