@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/f5/2d/56/f52d56f8b42ffba35178d969615e07ca.gif)
+![MasterHead](https://discordapp.com/channels/@me/1022485596192636980/1232938943197089824)
 <br>
 <h1 align="center">Aplikasi UMKM Konveksi - Kelompok 10</h1>
 <h3 align="center">Beranggotakan:</h3>
