@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY)
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <br>
 <h1 align="center">Aplikasi UMKM Konveksi - Kelompok 10</h1>
 <h3 align="center">Beranggotakan:</h3>
